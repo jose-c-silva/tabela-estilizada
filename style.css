@@ -1,0 +1,16 @@
+.produto td, th{
+    color: white;
+    padding: 5px;
+}
+
+.produto td{
+    background-color: #424250;
+}
+
+.moda th{
+    background-color: #BB86FC;
+}
+
+.casa th{
+    background-color: #00C4B4;
+}
